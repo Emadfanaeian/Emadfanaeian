@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Node And C++ also anything that gives me more ideas
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 You Can Reach Me On EmadFanaeian@gmail.com or Telegram t.me/Emadfanaeian
+- 📫 You Can Reach Me On EmadFanaeian@gmail.com or Telegram [t.me/Emadfanaeian](https://t.me/emadfanaeian)
 
 <!---
 Emadfanaeian/Emadfanaeian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
